@@ -1,0 +1,1 @@
+A simple crane simulator written in C++ using the SFML library. Navigate the 'hook' using the keyboard keys: W, S, A, and D. Adjust the load mass with the up and down arrow keys, and close the hook by holding the spacebar.
